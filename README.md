@@ -1,58 +1,70 @@
-# Portfolio 2 - Course Assignment
-## Goal
-As a developer, you will have to maintain a level of professionalism. This extends past writing code. We need to document our apps so that other developers can run the code without any issues. We also need to keep a professional-looking portfolio so that others have confidence in us and the work that we do.
+# Getting Started with Create React App
 
-## Brief
-In this assignment, you will be documenting three prior submissions from the first year:
-- Semester Project 2
-- JavaScript Frameworks CA
-- Project Exam 2
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-You will be creating a README.md file at the root of each of these projects and then documenting the submissions following a given format.
-- You will then also be creating a README.md for your own personal GitHub profile.
-- Lastly, you will be creating a portfolio webpage that lists these 3 projects.
+## Available Scripts
 
-#### This page must:
-List the 3 projects as cards and each card must have:
-- the title of the project,
-- a description,
-- a screenshot of how the project looks when running,
-- a link to the GitHub repo and a live site if it is online.
+In the project directory, you can run:
 
-## NOTE
-```
-For ONLINE students, it is fine if the link is to a private Noroff repo and can’t be accessed by the general public.
+### `npm start`
 
-For CAMPUS students, do not use any private GitHub classroom links. Use your public GitHub repo links.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Some of these submissions might not be on your personal portfolio at this point in time. This is not an issue at this stage.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Project Exam 2 might still be getting marked. Do not make any changes to your submission other than the README.md as detailed in the Level 1 Process below.
+### `npm test`
 
-https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
-```
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Level 1 Process
-Create a README.md in each of the submissions if one doesn’t exist.
-Copy the template found here, making sure to populate it with your own information: https://github.com/NoroffFEU/portfolio-1-example/blob/main/README.md. Feel free to use any other popular templates on the internet if you prefer the way they’ve done it, however, these templates will need to have multiple sections.
-Push the changes when done.
+### `npm run build`
 
-Follow this GitHub guide and create your own GitHub profile README.md: https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme. Consider googling “GitHub profiles” for some inspiration. 
-Push the changes when done.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Create a personal portfolio webpage that lists the 3 projects as cards. These cards must have a screenshot of the project and a link to the GitHub repo for that project. It is fine if the repo is private on the Noroff account at this point in time. This must be done on a public repo on your personal GitHub account. You are free to use whatever tech stack you’d like. The page must look good and be responsive. Consider using GitHub pages to host it, otherwise, you can use Netlify.
-Submit the links to all three projects on GitHub, a link to your personal portfolio on GitHub, and the portfolio webpage that you’ve made. 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-## Marking criteria
-- Can correctly document a project.
-- Can create a personal GitHub profile README.
-- Has created a personal portfolio webpage.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Submission
-- Link to your Semester Project 2 repo.
-- Link to your JavaScript Frameworks CA repo.
-- Link to your Project Exam 2 repo.
-- Link to your personal GitHub profile.
-- Link to your personal portfolio webpage.
+### `npm run eject`
 
-© Noroff
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
