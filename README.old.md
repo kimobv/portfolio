@@ -72,11 +72,12 @@ Submit the links to all three projects on GitHub, a link to your personal portfo
 
 Due: Sunday, 18 December 2022, 11:59 PM
 
-| ------------- | ------------- |
-| Semester Project 2 repository | Maximum score2 |
-| JavaScript Frameworks CA repository | Maximum score2 |
-| Project Exam 2 repository | Maximum score2 |
-| GitHub profile page | Maximum score1 |
-| Portfolio page | Maximum score3 |
+| Submission | Max score |
+| --- | --- |
+| Semester Project 2 repository | 2 |
+| JavaScript Frameworks CA repository | 2 |
+| Project Exam 2 repository | 2 |
+| GitHub profile page | 1 |
+| Portfolio page | 3 |
 
 © Noroff
