@@ -42,7 +42,7 @@ function App() {
 
 	return (
 		<>
-			<button type="button" onClick={handleThemeSwitch} className="fixed p-2 z-10 right-20 top-4 bg-indigo-600 text-lg rounded-xl">
+			<button type="button" onClick={handleThemeSwitch} className="fixed p-2 z-10 right-4 top-4 bg-indigo-600 text-lg rounded-full">
 				{theme === 'dark' ? sun : moon}
 			</button>
 			<div className="bg-white dark:bg-black text-stone-900 dark:text-stone-300 min-h-screen font-inter">
